@@ -13,6 +13,16 @@ Vue Peek
 Vue.js Extension Pack
 ```
 
+### Node.js 설치
+https://nodejs.org/en/
+
+### NPM 설치 
+https://www.npmjs.com/
+
+### Vue 설치
+```
+npm install vue
+```
 ### Vue-CLI 3 설치
 ```
 npm install -g @vue/cli
