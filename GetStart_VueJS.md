@@ -2,7 +2,7 @@
 https://code.visualstudio.com/
 
 
-### Visual Studio Extension 설치
+### Visual Studio Code Extension 설치
 ```
 ESLint
 npm
