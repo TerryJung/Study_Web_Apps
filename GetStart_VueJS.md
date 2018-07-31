@@ -18,6 +18,15 @@ Vue.js Extension Pack
 npm install -g @vue/cli
 ```
 
+### Vue-CLI 3 으로 새로운 프로젝트 만들기 
+```
+# make project within CLI
+vue create example-project
+# or
+# make project within Web UI
+vue ui
+```
+
 ### vue eslint & Prettier 설치
 ```
 npm install --save-dev eslint-plugin-vue
