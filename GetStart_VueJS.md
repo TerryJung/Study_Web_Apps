@@ -13,6 +13,11 @@ Vue Peek
 Vue.js Extension Pack
 ```
 
+### Vue-CLI 3 설치
+```
+npm install -g @vue/cli
+```
+
 ### vue eslint & Prettier 설치
 ```
 npm install --save-dev eslint-plugin-vue
