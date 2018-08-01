@@ -37,7 +37,7 @@ vue create example-project
 vue ui
 ```
 
-### vue eslint & Prettier 설치
+### vue ESlint & Prettier 설치
 ```
 npm install --save-dev eslint-plugin-vue
 npm install --save-dev eslint-config-prettier
